@@ -1,9 +1,12 @@
 body {
 background: #ccccc;
 }
+#banner {
+    width: 100%;
+}
 P {
     text-align: center;
 }
 em strong {
-    color:lawngreen
+    color:lawngreen;
 }
