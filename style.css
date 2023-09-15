@@ -4,3 +4,6 @@ background: #ccccc;
 P {
     text-align: center;
 }
+em strong {
+    color:lawngreen
+}
